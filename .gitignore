@@ -1,0 +1,15 @@
+#/说明是一个文件夹，里面的所有内容都被递归忽略
+ 
+build/ 
+node_modules/ 
+.idea/ 
+loser.txt
+.mymetadata 
+.project 
+.classpath 
+.settings 
+*classes* 
+.classpath 
+.myeclipse 
+*target*
+.gitignore
